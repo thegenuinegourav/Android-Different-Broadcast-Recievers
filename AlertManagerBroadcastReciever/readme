@@ -1,0 +1,5 @@
+An Android App which will schedule a receiver via the Android alert manager system service.   
+Once called, it uses the Android vibrator manager and a popup message (Toast) to notify the user.  
+So for the sake of an example, this app will vibrate after every 40 seconds:  
+First 30 seconds, it sets alarm for 10 seconds,  
+Remaining 10 seconds, it responds with vibration!!  
