@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="You phone will vibrate after every 40 seconds\nFirst 30 seconds, it sets alarm for 10 seconds\nRemaining 10seconds, it responds with vibration" >
+    </TextView>
+
+</RelativeLayout>
