@@ -1,0 +1,2 @@
+An Android App which  listens to telephone state changes.  
+If the phone receives a phone call, then our receiver will be notified and toast a message!!  
