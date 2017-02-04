@@ -1,0 +1,2 @@
+An Android App Example to create custom intents which will be intercepted by Broadcast Reciever and toast a message.  
+This custom intent can be called by any app provided they have corresponding Broadcast Reciever.  
